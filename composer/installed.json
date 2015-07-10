@@ -1,0 +1,52 @@
+[
+    {
+        "name": "hetisniels/telegram-wrapper",
+        "version": "0.1.1",
+        "version_normalized": "0.1.1.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/HetIsNiels/TelegramWrapper.git",
+            "reference": "3e5da2591020e8ed78cb3147aa4cb817ace9a778"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/HetIsNiels/TelegramWrapper/zipball/3e5da2591020e8ed78cb3147aa4cb817ace9a778",
+            "reference": "3e5da2591020e8ed78cb3147aa4cb817ace9a778",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.4.0"
+        },
+        "time": "2015-07-06 17:01:45",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "Telegram\\": "src/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "GPL-2.0"
+        ],
+        "authors": [
+            {
+                "name": "Niels van Velzen",
+                "email": "info@nielsvanvelzen.me",
+                "homepage": "http://nielsvanvelzen.me",
+                "role": "Developer"
+            }
+        ],
+        "description": "PHP wrapper for Telegram bots",
+        "homepage": "https://github.com/HetIsNiels/TelegramWrapper",
+        "keywords": [
+            "bot",
+            "telegram",
+            "telegram api",
+            "telegram bot",
+            "telegram sdk",
+            "telegram wrapper",
+            "wrapper"
+        ]
+    }
+]
